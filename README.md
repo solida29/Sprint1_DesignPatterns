@@ -1,7 +1,7 @@
 # Sprint1_DesignPatterns
 Sprint 1-2: Patrones de diseño
 
-https://refactoring.guru/es/design-patterns
+https://github.com/solida29/Sprint1_DesignPatterns
 
 ## Descripció
 Els patrons de disseny són solucions provades a problemes típics i recurrents que ens podem trobar en el desenvolupament d'una aplicació. Davant d'un problema que ens trobem durant el desenvolupament de la nostra aplicació, si podem solucionar-lo amb un patró, l'apliquem en lloc de reinventar la roda.
